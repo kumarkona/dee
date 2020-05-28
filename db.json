@@ -1,31 +1,31 @@
 {
 "users": [
  {
-   "id": "EMP-001",
+   "id": "1",
    "first_name": "Chathurangi",
    "last_name": "Shyalika",
    "email": "chathurangi@innovera.com"
  },
  {
-   "id": "EMP-002",
+   "id": "2",
    "first_name": "Chamani",
    "last_name": "Shiranthika",
    "email": "chamani@innovera.com"
  },
  {
-   "id": "EMP-003",
+   "id": "3",
    "first_name": "Awanthi",
    "last_name": "Balasuriya",
    "email": "awanthi@innovera.com"
  },
  {
-   "id": "EMP-004",
+   "id": "4",
    "first_name": "Jaya",
    "last_name": "Sampath",
    "email": "jaya@innovera.com"
  },
  {
-   "id": "EMP-005",
+   "id": "5",
    "first_name": "Darshana",
    "last_name": "Jayakody",
    "email": "darshana@innovera.com"
